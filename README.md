@@ -1,2 +1,2 @@
 # refined-cats
-report issues with the Refined Cats resource pack
+[Refined Cats resource pack:] https://www.curseforge.com/minecraft/texture-packs/refined-cats
